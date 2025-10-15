@@ -69,7 +69,7 @@ python test.py
  - Positive reviews: Precision ~0.89, Recall ~0.92
  - Negative reviews: Precision ~0.91, Recall ~0.88
  - Confusion matrix visualizes True Positives: , True Negatives, False Positives, False Negatives.
- - <img src=https://github.com/Rishikarpe/Movie-Review-Sentiment-Classifier/blob/main/Figure_1.png>
+<img src=https://github.com/Rishikarpe/Movie-Review-Sentiment-Classifier/blob/main/Figure_1.png>
   
 ---
 ### Results
@@ -84,3 +84,4 @@ python test.py
 - Handle emoji and slang in reviews
 
 - Deploy as a web app or REST API for real-time predictions
+
