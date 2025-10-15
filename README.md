@@ -82,6 +82,5 @@ python test.py
 ### Future Improvements
 - Use BERT/DistilBERT for better handling of negations and complex sentences
 - Handle emoji and slang in reviews
-
 - Deploy as a web app or REST API for real-time predictions
 
